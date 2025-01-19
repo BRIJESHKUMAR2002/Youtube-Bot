@@ -1,0 +1,18 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
